@@ -1,0 +1,7 @@
+C:\MyRep\OnGitHub\CodeKatas\CodeKatas\KataAnagramas\UnitTestAnagramas\bin\Debug\UnitTestAnagramas.dll
+C:\MyRep\OnGitHub\CodeKatas\CodeKatas\KataAnagramas\UnitTestAnagramas\bin\Debug\UnitTestAnagramas.pdb
+C:\MyRep\OnGitHub\CodeKatas\CodeKatas\KataAnagramas\UnitTestAnagramas\bin\Debug\KataAnagramas.dll
+C:\MyRep\OnGitHub\CodeKatas\CodeKatas\KataAnagramas\UnitTestAnagramas\bin\Debug\KataAnagramas.pdb
+C:\MyRep\OnGitHub\CodeKatas\CodeKatas\KataAnagramas\UnitTestAnagramas\obj\Debug\UnitTestAnagramas.csprojResolveAssemblyReference.cache
+C:\MyRep\OnGitHub\CodeKatas\CodeKatas\KataAnagramas\UnitTestAnagramas\obj\Debug\UnitTestAnagramas.dll
+C:\MyRep\OnGitHub\CodeKatas\CodeKatas\KataAnagramas\UnitTestAnagramas\obj\Debug\UnitTestAnagramas.pdb

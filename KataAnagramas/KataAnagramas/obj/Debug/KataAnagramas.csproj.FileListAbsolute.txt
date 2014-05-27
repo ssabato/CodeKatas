@@ -1,0 +1,4 @@
+C:\MyRep\OnGitHub\CodeKatas\CodeKatas\KataAnagramas\KataAnagramas\bin\Debug\KataAnagramas.dll
+C:\MyRep\OnGitHub\CodeKatas\CodeKatas\KataAnagramas\KataAnagramas\bin\Debug\KataAnagramas.pdb
+C:\MyRep\OnGitHub\CodeKatas\CodeKatas\KataAnagramas\KataAnagramas\obj\Debug\KataAnagramas.dll
+C:\MyRep\OnGitHub\CodeKatas\CodeKatas\KataAnagramas\KataAnagramas\obj\Debug\KataAnagramas.pdb
